@@ -38,6 +38,6 @@ git repos
 ----
 
 - [home blog](../)
-- [./blog](blog)
+- [../blog](blog)
 - hangzhou_house_knowledge
 - centos-book
