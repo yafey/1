@@ -50,7 +50,10 @@
 
 6. [htmlpreivew](../htmlpreivew) : 预览github 仓库中的 html 文件。 
    > forked from [htmlpreivew](https://github.com/htmlpreview/htmlpreview.github.io) , source: https://htmlpreview.github.io
-7. [👏极客时间 pdf & markdown 文档](../geektime-docs) : 👏极客时间 pdf & markdown 文档
+7. [👏极客时间 pdf & markdown 文档](../geektime-docs) : 👏uaxe 极客时间 pdf & markdown 文档
+   - [👏得到听书markdown文档](../uaxe_dedao-docs) : 👏uaxe 得到听书markdown文档
+   - [👏极客时间 pdf](../uaxe_geektime-pdfs) : 👏uaxe 极客时间 pdf
+   - [👏计算机类书籍](../uaxe_it-books) : 👏uaxe 计算机类书籍
 
    
 ----
