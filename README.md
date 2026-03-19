@@ -55,7 +55,7 @@
    - [👏极客时间 pdf](../uaxe_geektime-pdfs) : 👏uaxe 极客时间 pdf
    - [👏计算机类书籍](../uaxe_it-books) : 👏uaxe 计算机类书籍
 
-   
+ 8. [hello agent](../hello-agents) :  从零开始构建智能体
 ----
 
 git repos
